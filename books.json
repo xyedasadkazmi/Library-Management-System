@@ -1,0 +1,72 @@
+[
+  {
+    "book_id": "B0001",
+    "title": "Python Basics",
+    "author": "John Smith",
+    "total_copies": 4,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0002",
+    "title": "Data Structures",
+    "author": "Mark Allen",
+    "total_copies": 3,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0003",
+    "title": "AI Fundamentals",
+    "author": "Andrew Ng",
+    "total_copies": 2,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0004",
+    "title": "Machine Learning",
+    "author": "Tom Mitchell",
+    "total_copies": 5,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0005",
+    "title": "Cybersecurity 101",
+    "author": "Jane Doe",
+    "total_copies": 3,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0006",
+    "title": "Database Systems",
+    "author": "Ramakrishnan",
+    "total_copies": 2,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0007",
+    "title": "Java Programming",
+    "author": "James Gosling",
+    "total_copies": 3,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0008",
+    "title": "Operating Systems",
+    "author": "Silberschatz",
+    "total_copies": 2,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0009",
+    "title": "Networks Explained",
+    "author": "Tanenbaum",
+    "total_copies": 2,
+    "borrowed_records": []
+  },
+  {
+    "book_id": "B0010",
+    "title": "Cloud Computing",
+    "author": "Rajkumar Buyya",
+    "total_copies": 3,
+    "borrowed_records": []
+  }
+]
